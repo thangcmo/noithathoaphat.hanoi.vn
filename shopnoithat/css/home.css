@@ -1,0 +1,271 @@
+/* QUOTE */
+#quote .quote-left{
+    width: 60%;
+    float: left;
+    background: #192f46;
+    color: #fff;
+    padding-left: 30px;
+    padding-right: 30px;
+    overflow: hidden;
+}
+#quote .quote-left .title{
+    text-transform: uppercase;
+    font-size: 28px;
+    margin: 30px 0;
+}
+#quote .quote-left ul.services{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    overflow: hidden;
+}
+#quote .quote-left ul.services li{
+    float: left;
+    width: 30%;
+    margin-right: 30px;
+}
+#quote .quote-left ul.services li:last-child {
+    margin-right: 0;
+}
+#quote .quote-left ul.services li img{
+    outline: none;
+    display: block;
+    width: 100%;
+}
+#quote .quote-left ul.services li a{
+    outline: none;
+    display: block;
+    color: #fff;
+    text-align: center;
+    margin-top: 15px;
+}
+#quote .quote-left ul.latest_posts{
+    margin: 0 0 30px;
+    padding-left: 15px;
+}
+#quote .quote-left ul.latest_posts a{
+    color: #fff;
+}
+#quote .quote-left ul.latest_posts a:hover{
+    color: #f08800;
+}
+#quote .quote-left .quote-content{
+    position: relative;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 30px;
+}
+#quote .quote-left .quote-content:before, #quote .quote-left .quote-content:after{
+    content: "";
+    width: 28px;
+    height: 21px;
+    position: absolute;
+}
+#quote .quote-left .quote-content:before{
+    background: url(../images/left_quote.png) no-repeat;
+    left: 0;
+}
+#quote .quote-left .quote-content:after{
+    background: url(../images/right_quote.png) no-repeat;
+    right: 0;
+    bottom: 28px;
+}
+#quote .quote-left .quote-content ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+#quote .quote-left .quote-content .author{
+    display: block;
+    text-align: right;
+    padding-top: 10px;
+}
+#quote .quote-right{
+    width: 40%;
+    float: right;
+    overflow: hidden;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+#quote .quote-right img{
+    width: 100%;
+    height: 100%;
+}
+#quote .quote-right .quote-right-top{
+    width: 100%;
+    height: 50%;
+    border-bottom: 1px solid #192f46;
+    position: relative;
+    opacity: 0.6;
+    transition: all 0.5s ease 0s;
+}
+#quote .quote-right .quote-right-top:hover, #quote .quote-right .quote-right-half:hover{opacity: 1}
+#quote .quote-right .quote-right-half{
+    width: 50%;
+    height: 50%;
+    float: left;
+    border-right: 1px solid #192f46;
+    position: relative;
+    opacity: 0.6;
+    transition: all 0.5s ease 0s;
+}
+#quote .quote-right .quote-right-half:last-child{
+    border-right: none
+}
+
+/* FEEDBACKS */
+#feedbacks{
+    padding-bottom: 30px;
+}
+#feedbacks .title{
+    text-transform: uppercase;
+    font-size: 28px;
+    margin: 30px 0;
+}
+#feedbacks .feedback-user, #feedbacks .feedback-lib{
+    background: #fff;
+    padding: 20px;
+}
+#feedbacks .feedback-user h3{
+    text-transform: uppercase;
+    font-size: 18px;
+    margin: 0 0 15px;
+}
+#feedbacks .feedback-user ul, #feedbacks .feedback-lib ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+#feedbacks .feedback-user ul li{
+    position: relative;
+}
+#feedbacks .feedback-user ul li .content{
+    width: 60%;
+}
+#feedbacks .feedback-user ul li .feedback-description{
+    line-height: 22px;
+    margin-bottom: 20px;
+}
+#feedbacks .feedback-user ul li a{
+    display: inline-block;
+    padding: 5px 10px;
+    margin-bottom: 20px;
+    background: #f08800;
+    color: #fff;
+    text-transform: uppercase;
+}
+#feedbacks .feedback-user ul li a:hover{
+    opacity: 0.9;
+}
+#feedbacks .feedback-user ul li .author{
+    display: block;
+    font-weight: bold;
+}
+#feedbacks .feedback-user ul li img{
+    width: 40%;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+
+#feedbacks .feedback-lib h3{
+    text-transform: uppercase;
+    font-size: 18px;
+    margin: 0 0 10px;
+}
+#feedbacks .feedback-lib h4{
+    text-transform: uppercase;
+    font-size: 12px;
+    margin: 0 0 30px;
+}
+#feedbacks .feedback-lib ul li{
+    float: left;
+    width: 32%;
+    margin-right: 14px;
+}
+#feedbacks .feedback-lib ul li:last-child{
+    margin-right: 0;
+}
+#feedbacks .feedback-lib ul li img{
+    width: 100%;
+}
+#feedbacks .feedback-lib > a{
+    display: inline-block;
+    padding: 5px 10px;
+    margin-top: 30px;
+    background: #f08800;
+    color: #fff;
+    text-transform: uppercase;
+}
+#feedbacks .feedback-lib > a:hover{
+    opacity: 0.9;
+}
+
+@media (min-width: 992px) and (max-width: 1199px){
+    #feedbacks .feedback-lib ul li {
+        margin-right: 10px;
+    }
+}
+@media (max-width: 991px){
+    #feedbacks .col-sm-5, #feedbacks .col-sm-7{
+        width: 100%;
+    }
+    #feedbacks .feedback-user {
+        margin-bottom: 20px;
+    }
+}
+@media (min-width: 769px) and (max-width: 991px){
+    #quote .quote-left ul.services li {
+        margin-right: 20px;
+    }
+    #feedbacks .feedback-lib ul li {
+        margin-right: 6px;
+    }
+}
+@media (max-width: 768px){
+    #quote .quote-left, #quote .quote-right{
+        width: 100%;
+        float: none;
+    }
+    #quote .quote-right{
+        display: none
+    }
+    #feedbacks .feedback-lib ul li {
+        margin-right: 12px;
+    }
+}
+@media (max-width: 480px){
+    #quote .wrap{
+        overflow: visible;
+    }
+    #quote .quote-left ul.services li {
+        margin-right: 20px;
+    }
+    #quote .quote-left ul.services li a{
+        font-size: 20px;
+    }
+    #feedbacks .feedback-lib ul li {
+        margin-right: 8px;
+    }
+}
+@media (max-width: 360px){
+    #quote .quote-left ul.services li {
+        margin-right: 0;
+        margin-bottom: 20px;
+        width: 100%;
+    }
+    #feedbacks .feedback-user ul li .content {
+        width: 100%;
+    }
+    #feedbacks .feedback-user ul li img {
+        position: relative;
+        width: 100%;
+        margin-top: 10px;
+    }
+    #feedbacks .feedback-lib ul li {
+        margin-right: 0;
+        width: 100%;
+        margin-bottom: 10px;
+    }
+}

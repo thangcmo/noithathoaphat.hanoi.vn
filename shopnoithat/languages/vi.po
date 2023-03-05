@@ -1,0 +1,743 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PPO Chappin\n"
+"POT-Creation-Date: 2016-02-15 09:52+0700\n"
+"PO-Revision-Date: 2016-02-22 23:24+0700\n"
+"Last-Translator: \n"
+"Language-Team: PPO VIET NAM <info@ppo.vn>\n"
+"Language: vi_VN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: config-layerslider\n"
+
+#: content-page.php:16 content.php:53
+msgid "Pages:"
+msgstr "Trang:"
+
+#: content-page.php:22 content.php:33
+msgid "<i class=\"fa fa-pencil\"></i> Edit"
+msgstr "<i class=\"fa fa-pencil\"></i> Chỉnh sửa"
+
+#. translators: %s: Name of current post
+#: content.php:50
+msgid "Read more <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Xem thêm <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions.php:177
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:185
+msgid "Sidebar Left"
+msgstr ""
+
+#: functions.php:193
+msgid "Sidebar Home"
+msgstr ""
+
+#: functions.php:201
+msgid "Sidebar Footer 1"
+msgstr ""
+
+#: functions.php:209
+msgid "Sidebar Footer 2"
+msgstr ""
+
+#: functions.php:217
+msgid "Sidebar Footer 3"
+msgstr ""
+
+#: header.php:149 header.php:173 page-templates/page-price.php:54
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#: header.php:155 page-templates/page-price.php:22
+msgid "-- Select a category --"
+msgstr "-- Chọn một chuyên mục --"
+
+#: header.php:165 page-templates/page-price.php:44 template/taxonomy.php:28
+msgid "-- Select a price --"
+msgstr "-- Chọn một khoảng giá --"
+
+#: header.php:179 header.php:180
+msgid "Your cart"
+msgstr "Giỏ hàng"
+
+#: header.php:191 page-templates/page-cart.php:77
+msgid "Checkout"
+msgstr "Thanh toán"
+
+#: includes/class-orders-detail-list-table.php:61
+#: includes/class-orders-list-table.php:45
+msgid "ID"
+msgstr ""
+
+#: includes/class-orders-detail-list-table.php:62
+msgid "Name"
+msgstr "Tên sản phẩm"
+
+#: includes/class-orders-detail-list-table.php:63 includes/product.php:184
+msgid "Price"
+msgstr "Đơn giá"
+
+#: includes/class-orders-detail-list-table.php:64
+#: page-templates/page-checkout.php:132
+msgid "Quantity"
+msgstr "Số lượng"
+
+#: includes/class-orders-detail-list-table.php:65
+#: page-templates/page-checkout.php:133
+msgid "Discount"
+msgstr "Giảm giá"
+
+#: includes/class-orders-detail-list-table.php:66
+msgid "Amount"
+msgstr "Thành tiền"
+
+#: includes/class-orders-detail-list-table.php:67
+msgid "Notes"
+msgstr "Ghi chú"
+
+#: includes/class-orders-list-table.php:46
+msgid "Khách hàng"
+msgstr ""
+
+#: includes/class-orders-list-table.php:47
+msgid "Tổng tiền"
+msgstr ""
+
+#: includes/class-orders-list-table.php:48
+msgid "Ngày"
+msgstr ""
+
+#: includes/class-orders-list-table.php:49
+msgid "Tùy chọn"
+msgstr ""
+
+#: includes/class-orders-list-table.php:262
+msgid "Không duyệt"
+msgstr ""
+
+#: includes/class-orders-list-table.php:263
+#: includes/class-orders-list-table.php:274
+msgid "Hủy"
+msgstr ""
+
+#: includes/class-orders-list-table.php:267
+#: includes/class-orders-list-table.php:273
+msgid "Duyệt"
+msgstr ""
+
+#: includes/class-orders-list-table.php:268
+msgid "Phục hồi"
+msgstr ""
+
+#: includes/class-orders-list-table.php:269
+msgid "Xóa vĩnh viễn"
+msgstr ""
+
+#: includes/orders.php:55
+msgid "Orders Management"
+msgstr "Quản lý đơn hàng"
+
+#: includes/orders.php:56
+msgid "Đơn hàng"
+msgstr ""
+
+#: includes/orders.php:132
+msgid "Search order"
+msgstr "Tìm kiếm đơn hàng"
+
+#: includes/product-metabox.php:37
+msgid "Product Images"
+msgstr "Hình ảnh sản phẩm"
+
+#: includes/product-metabox.php:45
+msgid "Image reviews"
+msgstr "Hình ảnh xem trước"
+
+#: includes/product.php:10 includes/product.php:11
+msgid "Products"
+msgstr "Sản phẩm"
+
+#: includes/product.php:12 includes/product.php:54 includes/support.php:11
+msgid "Add new"
+msgstr "Thêm mới"
+
+#: includes/product.php:13
+msgid "Add new Product"
+msgstr "Thêm mới"
+
+#: includes/product.php:14
+msgid "New Product"
+msgstr "Thêm mới"
+
+#: includes/product.php:15 includes/support.php:14
+msgid "Edit"
+msgstr "Chỉnh sửa"
+
+#: includes/product.php:16
+msgid "Edit Product"
+msgstr "Chỉnh sửa"
+
+#: includes/product.php:17 includes/product.php:18
+msgid "View Product"
+msgstr "Xem sản phẩm"
+
+#: includes/product.php:19
+msgid "Search Products"
+msgstr "Tìm kiếm sản phẩm"
+
+#: includes/product.php:20
+msgid "No Product found"
+msgstr ""
+
+#: includes/product.php:21
+msgid "No Product found in trash"
+msgstr ""
+
+#: includes/product.php:36
+msgid "Product description here."
+msgstr ""
+
+#: includes/product.php:52 includes/product.php:53 sidebar-left.php:7
+msgid "Product Categories"
+msgstr "Danh mục sản phẩm"
+
+#: includes/product.php:55
+msgid "Add New Category"
+msgstr "Thêm mới"
+
+#: includes/product.php:56
+msgid "New Category"
+msgstr "Chuyên mục mới"
+
+#: includes/product.php:57
+msgid "Search Categories"
+msgstr "Tìm kiếm chuyên mục"
+
+#: includes/product.php:67 includes/product.php:68
+msgid "Product Prices"
+msgstr "Giá sản phẩm"
+
+#: includes/product.php:69 includes/product.php:84 includes/product.php:99
+msgid "Add New"
+msgstr "Thêm mới"
+
+#: includes/product.php:70
+msgid "Add New Price"
+msgstr "Thêm mới"
+
+#: includes/product.php:71 includes/product.php:86
+msgid "New Color"
+msgstr ""
+
+#: includes/product.php:72
+msgid "Search Prices"
+msgstr "Tìm kiếm giá"
+
+#: includes/product.php:82 includes/product.php:83
+msgid "Product Colors"
+msgstr "Màu sản phẩm"
+
+#: includes/product.php:85
+msgid "Add New Color"
+msgstr "Thêm mới"
+
+#: includes/product.php:87
+msgid "Search Colors"
+msgstr "Tìm kiếm màu"
+
+#: includes/product.php:97 includes/product.php:98
+msgid "Product Factors"
+msgstr "Thương hiệu"
+
+#: includes/product.php:100
+msgid "Add New Factor"
+msgstr "Thêm mới"
+
+#: includes/product.php:101
+msgid "New Factor"
+msgstr ""
+
+#: includes/product.php:102
+msgid "Search Factors"
+msgstr "Tìm kiếm thương hiệu"
+
+#: includes/product.php:164 includes/support.php:42
+msgid "Information"
+msgstr "Thông tin"
+
+#: includes/product.php:170
+msgid "Code"
+msgstr "Mã sản phẩm"
+
+#: includes/product.php:177 single-product.php:59
+msgid "Size"
+msgstr "Kích thước"
+
+#: includes/product.php:191
+msgid "Sale (%)"
+msgstr ""
+
+#: includes/product.php:198 single-product.php:68
+msgid "Guarantee"
+msgstr "Bảo hành"
+
+#: includes/product.php:205
+msgid "Status"
+msgstr "Trạng thái"
+
+#: includes/product.php:211
+msgid "In stock"
+msgstr "Còn hàng"
+
+#: includes/product.php:212
+msgid "Out of stock"
+msgstr "Hết hàng"
+
+#: includes/product.php:213
+msgid "Coming soon"
+msgstr "Sắp có hàng"
+
+#: includes/product.php:267
+msgid "Orders"
+msgstr "Đơn hàng"
+
+#: includes/product.php:275
+msgid "View"
+msgstr "Xem"
+
+#: includes/product.php:360 includes/product.php:374
+msgid "Discount (%)"
+msgstr "Giảm giá (%)"
+
+#: includes/product.php:392 includes/product.php:407
+msgid "Color Image"
+msgstr "Ảnh màu"
+
+#: includes/product.php:445
+msgid "Image"
+msgstr "Hình ảnh"
+
+#: includes/product.php:458
+msgid "Thumbnail"
+msgstr "Ảnh đại diện"
+
+#: includes/support.php:9 includes/support.php:10
+msgid "Supports"
+msgstr "Hỗ trợ"
+
+#: includes/support.php:12
+msgid "Add new Support"
+msgstr "Thêm mới"
+
+#: includes/support.php:13
+msgid "New Support"
+msgstr ""
+
+#: includes/support.php:15
+msgid "Edit Support"
+msgstr ""
+
+#: includes/support.php:16 includes/support.php:17
+msgid "View Support"
+msgstr ""
+
+#: includes/support.php:18
+msgid "Search Supports"
+msgstr ""
+
+#: includes/support.php:19
+msgid "No Support found"
+msgstr ""
+
+#: includes/support.php:20
+msgid "No Support found in trash"
+msgstr ""
+
+#: includes/support.php:35
+msgid "Support description here."
+msgstr ""
+
+#: includes/support.php:48 page-templates/page-checkout.php:33
+#: page-templates/page-checkout.php:66
+msgid "Phone number"
+msgstr "Số điện thoại"
+
+#: includes/support.php:55
+msgid "Email address"
+msgstr "Địa chỉ email"
+
+#: includes/support.php:76
+msgid "Order"
+msgstr "Thứ tự sắp xếp"
+
+#: includes/widgets/ads.php:12
+msgid "Ads"
+msgstr "Quảng cáo"
+
+#: includes/widgets/category-product-grid.php:6
+msgid "Show product by category."
+msgstr "Hiển thị sản phẩm theo chuyên mục."
+
+#: includes/widgets/category-product-grid.php:103
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: includes/widgets/category-product-grid.php:107
+msgid "Category"
+msgstr "Chuyên mục"
+
+#: includes/widgets/category-product-grid.php:120
+msgid "Number"
+msgstr "Số hiển thị"
+
+#: libs/template-tags.php:18
+msgid "Post navigation"
+msgstr "Điều hướng bài viết"
+
+#: libs/template-tags.php:22
+msgid "<span class=\"meta-nav\">Posted in:</span> %title"
+msgstr "<span class=\"meta-nav\">Đăng trong:</span> %title"
+
+#: libs/template-tags.php:24
+msgid "<span class=\"meta-nav\">← </span> Prevous post"
+msgstr "<span class=\"meta-nav\">← </span> Bài trước"
+
+#: libs/template-tags.php:25
+msgid "Next post <span class=\"meta-nav\"> →</span>"
+msgstr "Bài tiếp <span class=\"meta-nav\"> →</span>"
+
+#: libs/template-tags.php:43
+msgid "Sticky post"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: libs/template-tags.php:105
+msgid "Xem thêm <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: libs/theme_functions.php:73
+#, php-format
+msgid "Page %s"
+msgstr "Trang %s"
+
+#: libs/theme_functions.php:194
+#, php-format
+msgid "New user registration on %s:"
+msgstr ""
+
+#: libs/theme_functions.php:195 libs/theme_functions.php:210
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: libs/theme_functions.php:196
+#, php-format
+msgid "E-mail: %s"
+msgstr ""
+
+#: libs/theme_functions.php:199
+#, php-format
+msgid "[%s] New User Registration"
+msgstr ""
+
+#: libs/theme_functions.php:207
+#, php-format
+msgid "Hi %s,"
+msgstr ""
+
+#: libs/theme_functions.php:208
+#, php-format
+msgid "Welcome to %s! Here's how to log in:"
+msgstr ""
+
+#: libs/theme_functions.php:211
+#, php-format
+msgid "Password: %s"
+msgstr ""
+
+#: libs/theme_functions.php:214
+#, php-format
+msgid "[%s] Your username and password"
+msgstr ""
+
+#: libs/theme_functions.php:359
+msgid "« Previous"
+msgstr "« Trang trước"
+
+#: libs/theme_functions.php:359
+msgid "Next »"
+msgstr "Trang sau »"
+
+#: libs/theme_settings.php:10 libs/theme_settings.php:11
+msgid " Settings"
+msgstr " Cài đặt"
+
+#: page-templates/page-cart.php:49 page-templates/page-checkout.php:131
+#: single-product.php:142
+msgid "Color"
+msgstr "Màu"
+
+#: page-templates/page-cart.php:63
+msgid "Remove"
+msgstr "Xoá"
+
+#: page-templates/page-cart.php:73 page-templates/page-checkout.php:149
+msgid "Total"
+msgstr "Tổng"
+
+#: page-templates/page-cart.php:76
+msgid "Continue shopping"
+msgstr "Tiếp tục mua hàng"
+
+#: page-templates/page-checkout.php:25
+msgid "Customer Information"
+msgstr "Thông tin khách hàng"
+
+#: page-templates/page-checkout.php:27 page-templates/page-checkout.php:60
+msgid "Fullname"
+msgstr "Họ tên đầy đủ"
+
+#: page-templates/page-checkout.php:30 page-templates/page-checkout.php:63
+msgid "E-mail address"
+msgstr "Địa chỉ e-mail"
+
+#: page-templates/page-checkout.php:36 page-templates/page-checkout.php:69
+msgid "Address"
+msgstr "Địa chỉ"
+
+#: page-templates/page-checkout.php:54
+msgid "Other shipping address"
+msgstr "Nhận hàng tại địa chỉ khác"
+
+#: page-templates/page-checkout.php:58
+msgid "Shipping Information"
+msgstr "Thông tin vận chuyển"
+
+#: page-templates/page-checkout.php:88
+msgid "Payment Method"
+msgstr "Phương thức thanh toán"
+
+#: page-templates/page-checkout.php:91 page-templates/page-checkout.php:92
+msgid "Cost on delivery"
+msgstr "Thanh toán khi nhận hàng"
+
+#: page-templates/page-checkout.php:100 page-templates/page-checkout.php:101
+msgid "Payment at office"
+msgstr "Thanh toán tại văn phòng"
+
+#: page-templates/page-checkout.php:109 page-templates/page-checkout.php:110
+msgid "Online payment"
+msgstr "Thanh toán trực tuyến"
+
+#: page-templates/page-checkout.php:153
+msgid "VAT (10%)"
+msgstr "Thuế VAT (10%)"
+
+#: page-templates/page-checkout.php:157
+msgid "Total pay"
+msgstr "Tổng thanh toán"
+
+#: page-templates/page-checkout.php:165
+msgid "Back to Cart"
+msgstr "Quay lại giỏ hàng"
+
+#: page-templates/page-checkout.php:166 page-templates/page-checkout.php:167
+msgid "Process To Payment"
+msgstr "Xử lý thanh toán"
+
+#: page-templates/page-price.php:33
+msgid "-- Select a brand --"
+msgstr "-- Chọn một thương hiệu --"
+
+#: search.php:14
+#, php-format
+msgid "Search results for: \"%s\""
+msgstr "Kết quả tìm kiếm cho: \"%s\""
+
+#: sidebar-news.php:3 single-product.php:62
+msgid "Categories"
+msgstr "Danh mục"
+
+#: sidebar.php:3
+msgid "Contact with us"
+msgstr "Liên hệ với chúng tôi"
+
+#: sidebar.php:62
+msgid "Promotional"
+msgstr "Khuyến mại"
+
+#: single-product.php:56
+msgid "Product Code"
+msgstr "Mã sản phẩm"
+
+#: single-product.php:65
+msgid "Brand"
+msgstr "Thương hiệu"
+
+#: single-product.php:73
+msgid "Status: "
+msgstr "Trạng thái: "
+
+#: single-product.php:76
+msgid "<span class=\"t_green\">In stock</span>"
+msgstr "Còn hàng"
+
+#: single-product.php:77
+msgid "<span class=\"t_red\">Out of stock</span>"
+msgstr "Hết hàng"
+
+#: single-product.php:78
+msgid "<span class=\"t_orange\">Coming soon</span>"
+msgstr "Sắp có hàng"
+
+#: single-product.php:141 single-product.php:142
+msgid "None"
+msgstr "Không"
+
+#: single-product.php:147 single-product.php:148
+msgid "Add to Bag"
+msgstr "Thêm vào giỏ"
+
+#: single-product.php:187
+msgid "Related Products"
+msgstr "Sản phẩm liên quan"
+
+#: single.php:39
+msgid "Related Posts"
+msgstr "Bài viết liên quan"
+
+#: template/product-most-view.php:11
+msgid "Most view products"
+msgstr "Sản phẩm xem nhiều"
+
+#: template/taxonomy.php:19
+msgid "Sort by"
+msgstr "Sắp xếp theo"
+
+#: template/taxonomy.php:26
+msgid "Filter by"
+msgstr "Lọc theo"
+
+#~ msgid "Add new coupon"
+#~ msgstr "Thêm mới"
+
+#~ msgid "Add new Coupon"
+#~ msgstr "Thêm mới"
+
+#~ msgid "Add new Photo"
+#~ msgstr "Thêm mới"
+
+#~ msgid "Page not found"
+#~ msgstr "Trang không tồn tại"
+
+#~ msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+#~ msgstr "Ready to publish your first post? <a href=\"%1$s\">Bắt đầu tại đây</a>."
+
+#~ msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+#~ msgstr "Xin lỗi, nhưng không có gì phù hợp với điều kiện tìm kiếm của bạn. Vui lòng thử lại với một vài từ khóa khác."
+
+#~ msgid "Connect with us!"
+#~ msgstr "Kết nối với chúng tôi!"
+
+#~ msgid "SIGN UP"
+#~ msgstr "ĐĂNG KÝ"
+
+#~ msgid "Sign up for our newsletter"
+#~ msgstr "Đăng ký nhận thư khuyến mại, voucher... từ chúng tôi"
+
+#~ msgid "Your Email"
+#~ msgstr "Địa chỉ email của bạn"
+
+#~ msgid "FREE SHIPPING | SAME DAY DELIVERY AVAILABLE IN NYC"
+#~ msgstr "VẬN CHUYỂN MIỄN PHÍ | NHƯ GIAO HÀNG TRONG NGÀY"
+
+#~ msgid "Sign In"
+#~ msgstr "Đăng nhập"
+
+#~ msgid "or"
+#~ msgstr "hoặc"
+
+#~ msgid "Sign Up"
+#~ msgstr "Đăng ký"
+
+#~ msgid "Product Sizes"
+#~ msgstr "Kích thước sản phẩm"
+
+#~ msgid "Add New Size"
+#~ msgstr "Thêm mới"
+
+#~ msgid "Search Sizes"
+#~ msgstr "Tìm kiếm kích thước"
+
+#~ msgid "Excerpt"
+#~ msgstr "Mô tả ngắn"
+
+#~ msgid "Latest Video"
+#~ msgstr "Video mới nhất"
+
+#~ msgid "View All"
+#~ msgstr "Xem tất cả"
+
+#~ msgid "Payment on delivery"
+#~ msgstr "Thanh toán khi nhận hàng"
+
+#~ msgid "Contact support"
+#~ msgstr "Liên hệ hỗ trợ"
+
+#~ msgid "Coupon code"
+#~ msgstr "Mã giảm giá"
+
+#~ msgid "LOGIN OR CREATE AN ACCOUNT"
+#~ msgstr "ĐĂNG NHẬP HOẶC ĐĂNG KÝ TÀI KHOẢN MỚI"
+
+#~ msgid "CREATE AN ACCOUNT"
+#~ msgstr "ĐĂNG KÝ TÀI KHOẢN"
+
+#~ msgid "First name"
+#~ msgstr "Tên"
+
+#~ msgid "Last name"
+#~ msgstr "Họ"
+
+#~ msgid "Confirm E-mail address"
+#~ msgstr "Xác nhận địa chỉ e-mail"
+
+#~ msgid "Password"
+#~ msgstr "Mật khẩu"
+
+#~ msgid "Confirm Password"
+#~ msgstr "Xác nhận mật khẩu"
+
+#~ msgid "Date of Birth"
+#~ msgstr "Ngày sinh"
+
+#~ msgid "Create"
+#~ msgstr "Đăng ký"
+
+#~ msgid "LOGIN"
+#~ msgstr "ĐĂNG NHẬP"
+
+#~ msgid "Remember me"
+#~ msgstr "Ghi nhớ"
+
+#~ msgid "Login"
+#~ msgstr "Đăng nhập"
+
+#~ msgid "Forgot your password?"
+#~ msgstr "Bạn quên mật khẩu?"
+
+#~ msgid "%d Results"
+#~ msgstr "%d Kết quả"
+
+#~ msgid "Filter By"
+#~ msgstr "Lọc theo"
